@@ -1,5 +1,4 @@
-Creer un fichier sur master
-Ecrire dedans et push
+Creer un fichier sur master, ecrire dedans et push
 
 Faire une branche Test-1 qui derive de master (pas oubloer de chekout)
 Modifier le fichier et push sur Test-1
